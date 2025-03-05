@@ -3,7 +3,7 @@ O objetivo deste projeto é aplicar conceitos de POO para tornar o código mais 
 
 🚀 Tecnologias utilizadas
 ✔️ JavaScript (ES6+)
-✔️ HTML5 & CSS3 (para a interface do jogo)
+✔️ HTML5
 
 🎯 Funcionalidades
 ✅ Movimento suave da cobrinha
